@@ -1,0 +1,33 @@
+<link rel="stylesheet" href="./styles/index.css">
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+
+
+<main id="main">
+  <h1 id="title">Martin Luther King</h1>
+  
+  <figure id="img-div">
+    <img
+      id="image"
+      src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE5NTU2MzE2MjgwNDg5NDgz/martin-luther-king-jr-9365086-2-402.jpg"
+    />
+    <figcaption id="img-caption">
+      <p> social activist for equality</p>
+    </figcaption>
+  </figure>
+  <section id="tribute-info">
+    <h3 id="headline">Here's a time line of Martin luther King:</h3>
+    <ul>
+      <h4><strong> 1929</strong> - Born in Atlanta, Georgia </h4>
+      <h4> <strong> 1944</strong> - Goes to  Morehouse College at age 15.</h4>
+      <h4> <strong>1958</strong> - meets with other civil rights leaders.</h4>
+      <h4> <strong>1963</strong> - I have a dream speach.</h4>    
+     <h4> <strong>1965</strong> - leads a peacful protest in selma.</h4>
+      <h4> <strong>1968</strong> - Martin luther king gets assinated.</h4>
+      <a id="tribute-link"
+    href="https://www.biography.com/activist/martin-luther-king-jr"
+    target="_blank"
+    >MLK biography</a>
+
+
+  
+</html>
